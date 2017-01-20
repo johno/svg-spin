@@ -1,0 +1,17 @@
+{
+  "name": "svg-spin",
+  "version": "1.0.0",
+  "description": "Experiments with spinning svgs",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "John Otander",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^1.2.3"
+  }
+}
